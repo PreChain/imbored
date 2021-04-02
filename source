@@ -63,8 +63,6 @@ wait(0.5)
 
 kick:Destroy()
 
-wait(10)
-
 --[[
 IronBrew:tm: obfuscation; Version 2.7.2
 ]]
